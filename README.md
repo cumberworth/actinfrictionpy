@@ -1,5 +1,7 @@
 # Supporting python modules for dynamics analysis in "Constriction of actin rings by passive crosslinkers"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7781585.svg)](https://doi.org/10.5281/zenodo.7781585)
+
 Python package for the dynamics analysis of [Ref. 1](#references).
 
 This package is primarily for creating plots for the solutions of differential equations that are solved with another package, ([ActinFriction.jl](https://github.com/cumberworth/ActinFriction.jl)).
